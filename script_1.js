@@ -2,3 +2,6 @@
 function asdf() {
 	return "asdf"
 }
+function zxcv() {
+	return "zxcv"
+}
