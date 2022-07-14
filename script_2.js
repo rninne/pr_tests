@@ -1,0 +1,3 @@
+function qwer() {
+	return "qwer";
+}
